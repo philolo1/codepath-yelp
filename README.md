@@ -25,19 +25,11 @@ I played with the headers a little bit so that one can click on the header and d
 I only did autolayout for the yelp cell. For the cell with the slider it did not make sense for me. I invested a lot of time making the app look good and playing with header. I somehow lost track of time and then had some bugs which I wanted to fix. I also did not wanted to watch the video of the filter and explore it myself. That is why it took longer than i expected. But I learned really a lot.
 
 ### Walkthrough
-![Video Walkthrough](https://github.com/philolo1/rottentomatoes/blob/master/rot.gif)
+![Video Walkthrough](https://github.com/philolo1/codepath-yelp/blob/master/yelp-gif.gif)
 
 Credits
 ---------
 * [YELP API](http://www.yelp.com/developers/documentation/v2/search_api).
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking)
-
-
-
-
-
-
-
-
 
 
